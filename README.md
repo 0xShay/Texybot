@@ -4,7 +4,8 @@
 Texybot is a fun chatbot made for the Texyland community.
 
 ## Run
-To run your own instance of the bot, copy the `template.env` file into a new file: `.env`.
+To run your own instance of the bot, copy the `template.env` file into a new file: `.env`. Then, add your API keys.
+
 You should be able to use `python bot.py` to get the bot up and running. If you're missing any dependencies, just install them using `pip`.
 
 ## Contribute
