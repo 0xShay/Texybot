@@ -1,3 +1,4 @@
+BOT_USER_ID = 1229765272953684059 # cooldown between user requests
 ACTION_COOLDOWN_SECS = 10 # cooldown between user requests
 USER_DAILY_TOKEN_LIMIT = 1000 # allowed tokens per user per day
 ADMIN_USER_IDS = [293405833231073280] # no token limit or cooldown period
